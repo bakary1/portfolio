@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bakary Bah</title>
+    <link>https://bakary1.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Bakary Bah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://bakary1.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Power BI | Amazon Prime Video Dashboard</title>
+      <link>https://bakary1.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bakary1.github.io/portfolio/post/project-1/</guid>
+      <description>Amazon Prime Video is a popular streaming service offered by Amazon. The platform has approximately 10 000 movies and tv shows available for streaming on-demand.&#xA;I created an interactive dashboard using Power BI and data from Kaggle. The dashboard highlights the most popular genres, user ratings, and content trends across different geographical locations.&#xA;Project outline:&#xA;Connected and transformed the raw data with Power Query. Created measures with DAX. Designed the interactive dashboard to visualize the data View Dashboard</description>
+    </item>
+    <item>
+      <title>Project 2: Power BI | Adventureworks Report</title>
+      <link>https://bakary1.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bakary1.github.io/portfolio/post/project-2/</guid>
+      <description>Adventureworks is a fictional manufacturing company that produces cycling equipment and accessories. The management team needs a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. In this capstone project, I have created a Power BI report that meets this objective.&#xA;Project outline:&#xA;Connected and transformed the raw data with Power Query. Built a relational data model. Created calculated columns and measures with DAX.</description>
+    </item>
+    <item>
+      <title>Project 3: Python | Customer Churn Prediction</title>
+      <link>https://bakary1.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bakary1.github.io/portfolio/post/project-3/</guid>
+      <description>Project outline:&#xA;Created a machine learning model that predicts customer churn. The data was collected from Kaggle and represents a fictional telecom company. Cleaned the data and conducted EDA using pandas, numpy and seaborn. Enginereed features and conducted over-sampling on the minority class. Optimized Random Forest, AdaBoost, and Logistic Regression using GridsearchCV to reach the best model Confusion matrix of the best performing model (RF). The Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    <item>
+      <title>Project 4: Python | House Price Prediction</title>
+      <link>https://bakary1.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bakary1.github.io/portfolio/post/project-4/</guid>
+      <description>Project outline:&#xA;Created a machine learning model that predicts house prices in Ames, Iowa. The data was collected from Kaggle. Cleaned the data and conducted EDA using pandas, numpy and seaborn. Conducted feature engineering and transformations. Optimized Random Forest and XGBoost using GridsearchCV to reach the best model (XGBoost) Distribution of missing values. The Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    <item>
+      <title>Project 5: Python | Clustering Stocks with K-means</title>
+      <link>https://bakary1.github.io/portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bakary1.github.io/portfolio/post/project-5/</guid>
+      <description>Project outline:&#xA;Created a machine learning model that clusters 50 randomly selected stocks in the S&amp;amp;P 500 index into 4 clusters based on risk and return characteristics. The data was collected using the Yahoo Finance API. Cleaned the data and conducted EDA using pandas, numpy and seaborn. Conducted feature engineering and data transformations. Optimized the K-means clustering algorithm using the elbow method Visualization of the clusters. The Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+  </channel>
+</rss>
